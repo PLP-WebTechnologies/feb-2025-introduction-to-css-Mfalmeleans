@@ -1,0 +1,33 @@
+/* Style for the ID selector */
+#main-title {
+    color: #1CABE2;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Style for class selector - description */
+.description {
+    font-size: 18px;
+    color: #444;
+    font-family: 'Georgia', serif;
+    margin: 10px 30px;
+}
+
+/* Style for image with class 'profile-pic' */
+.profile-pic {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #ddd;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+/* Third selector - another class */
+.info-box {
+    background-color: #f9f9f9;
+    border: 2px solid #ccc;
+    padding: 15px;
+    margin: 20px;
+    font-family: 'Verdana', sans-serif;
+}
